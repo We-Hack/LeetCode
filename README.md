@@ -1,3 +1,3 @@
-# Leetcode
+# LeetCode
 
-Our Hacking practice on [Leetcode](https://leetcode.com/problemset/algorithms/).
+Our Hacking practice on [LeetCode](https://leetcode.com/problemset/algorithms/).
