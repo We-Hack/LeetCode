@@ -28,9 +28,27 @@ Explanation:
 The above arrows point to positions where the corresponding bits are different..
 """
 
+class Solution(object):
+    def hammingDistance(self, x, y):
+        """
+        # Time: O(1) 32ms. Space: O(1).
+        :type x: int
+        :type y: int
+        :rtype: int
+        """
+        xor = x ^ y
+        distance = 0
+        while xor:
+            if xor & 0x01:
+                distance += 1
+            xor = xor >> 1
+        return distance
+
 
 def main():
-    pass
+    sol = Solution()
+    print(sol.hammingDistance(1, 4))
+    print(sol.hammingDistance(1, 3))
 
 
 if __name__ == "__main__":
