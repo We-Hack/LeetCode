@@ -2,7 +2,7 @@
 
 Our Hacking practice on [Leetcode](https://leetcode.com/problemset/algorithms/).
 
-### Algorithm
+### Problem Set
 
 | **Number** | **Title** | **Solution** | **Type** | **Difficulty** |
 | --- | ------ | -------- | ---------- | -------- |
