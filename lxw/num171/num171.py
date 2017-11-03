@@ -25,9 +25,13 @@ Credits:
 Special thanks to @ts for adding this problem and creating all test cases.
 """
 
+from functools import reduce
+
+
 class Solution(object):
-    def titleToNumber(self, s):
+    def titleToNumber_method1(self, s):
         """
+        Time: O(n). Space: O(1).
         :type s: str
         :rtype: int
         """
@@ -40,11 +44,21 @@ class Solution(object):
 
         return result
 
+    def titleToNumber_method2(self, s):
+        """
+        Beautiful
+        Time: O(n). Space: O(1).
+        :type s: str
+        :rtype: int
+        """
+        return reduce(lambda x, y: 26*x+y, [ord(ch)-64 for ch in s])
 
 def main():
     sol = Solution()
-    print(sol.titleToNumber("B"))
-    print(sol.titleToNumber("BA"))
+    print(sol.titleToNumber_method1("B"))
+    print(sol.titleToNumber_method2("B"))
+    print(sol.titleToNumber_method1("BA"))
+    print(sol.titleToNumber_method2("BA"))
 
 
 if __name__ == "__main__":
