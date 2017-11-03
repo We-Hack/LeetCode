@@ -3,7 +3,7 @@ public:
     int hammingDistance_1(int x, int y) {//3ms
 	int temp = x ^ y;  //异或
         int count = 0;
-        for(int i=0;i<32;i++)  
+        for(int i=0;i<32;i++) //可以改进为while(temp) 
         {
             if(temp%2==1)  //除二计数
             {
@@ -17,7 +17,7 @@ public:
     int hammingDistance_2(int x, int y){ //3ms
         int temp = x ^ y;
         int count = 0;
-        for(int i=0;i<32;i++)  //左移计数
+        for(int i=0;i<32;i++)  //将1左移计数
         {
             if(temp&(1<<i))
             {
