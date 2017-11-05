@@ -23,15 +23,22 @@ return [0, 1].
 class Solution(object):
     def twoSum(self, nums, target):
         """
+        Time: O(n) 39ms. Space: O(n).
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
         """
+        nums_dict = {}
+        for index, num in enumerate(nums):
+            if target - num in nums_dict:
+                return [nums_dict[target-num], index]
+            else:
+                nums_dict[num] = index
 
 
 def main():
     sol = Solution()
-    sol.twoSum()
+    print(sol.twoSum([2, 7, 11, 15], 9))
 
 
 if __name__ == "__main__":
