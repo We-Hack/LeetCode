@@ -1,0 +1,68 @@
+// 2 loops 10ms
+
+import java.util.HashMap;
+import java.util.Map;
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        // return
+        int[] indexArray = new int[2];
+            
+        // corner cases
+        if(nums == null || nums.length == 0){
+            return null;
+        }
+        
+        // main logistic
+        // value -> index   hashmap
+        Map<Integer,Integer> hashMap = new HashMap<>();
+        for (int i = 0; i < nums.length; i++ ){
+            hashMap.put(nums[i], i);
+        }
+        for (int i = 0; i < nums.length; i++ ){
+            if (hashMap.containsKey(target-nums[i])){
+                indexArray[0] = i;
+                indexArray[1] = hashMap.get(target-nums[i]);
+            }
+            if (indexArray[0] == indexArray[1]){
+                continue;
+            }
+            return indexArray;
+        }
+        return null;
+    }
+}
+
+
+
+// 1 loop 8ms
+import java.util.HashMap;
+import java.util.Map;
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        // return
+        int[] indexArray = new int[2];
+            
+        // corner cases
+        if(nums == null || nums.length == 0){
+            return null;
+        }
+        
+        // main logistic
+        // value -> index   hashmap
+        Map<Integer,Integer> hashMap = new HashMap<>();
+        for (int i = 0; i < nums.length; i++ ){
+            if (!hashMap.containsKey(target-nums[i])){
+                hashMap.put(nums[i], i);
+            }
+            else{
+                indexArray[0] = i;
+                indexArray[1] = hashMap.get(target-nums[i]);   
+                if (indexArray[0] == indexArray[1]){
+                    continue;
+                }
+                return indexArray;
+            }
+        }
+        return null;           
+    }      
+}
