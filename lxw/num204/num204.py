@@ -22,6 +22,10 @@ class Solution(object):
     def _is_prime_bad2(self, n):
         """
         # Better than _is_prime_bad1 but still bad.
+        # Reference: [判断一个数是否为质数/素数——从普通判断算法到高效判断算法思路](blog.csdn.net/huang_miao_xin/article/details/51331710)
+        令x≥1，将大于等于5的自然数表示如下：
+        6x-1, 6x, 6x+1, 6x+2, 6x+3, 6x+4, 6x+5, 6(x+1), 6(x+1)+1 ···
+        可以看到，不在6的倍数两侧，即6x两侧的数为6x+2，6x+3，6x+4，由于2(3x+1)，3(2x+1)，2(3x+2)，所以它们一定不是素数，再除去6x本身，显然，素数要出现只可能出现在6x的相邻两侧。
         任何一个合数都可以分解为几个质数的积
         :param n: 
         :return: 
