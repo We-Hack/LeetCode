@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num189.py
 # Author: lxw
-# Date: 11/7/17 20:02:55 PM
+# Date: 20171107 20:02:55 PM
 
 """
 Num 189: Rotate Array

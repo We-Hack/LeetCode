@@ -1,6 +1,6 @@
 // File: num347.cpp
 // Author: lxw
-// Date: 2017-11-09
+// Date: 20171109
 /*
 Num 347: Top K Frequent Elements
 Source: https://leetcode.com/problems/top-k-frequent-elements/description/

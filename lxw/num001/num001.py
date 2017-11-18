@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num001.py
 # Author: lxw
-# Date: 11/5/17 7:18 PM
+# Date: 20171105 7:18 PM
 
 """
 Num 001: Two Sum

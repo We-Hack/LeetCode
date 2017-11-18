@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num007.py
 # Author: lxw
-# Date: 11/6/17 9:58 PM
+# Date: 20171106 9:58 PM
 
 """
 Num 007: 

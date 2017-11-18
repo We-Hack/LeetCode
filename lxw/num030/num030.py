@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num030.py
 # Author: lxw
-# Date: 11/5/17 5:00 PM
+# Date: 20171105 5:00 PM
 
 """
 Num 030: Substring with Concatenation of All Words

@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num171.py
 # Author: lxw
-# Date: 11/3/17 14:02:55 PM
+# Date: 20171103 14:02:55 PM
 
 """
 Num 171: Excel Sheet Column Number

@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num204.py
 # Author: lxw
-# Date: 11/5/17 7:20 PM
+# Date: 20171105 7:20 PM
 
 """
 Num 204: Count Primes

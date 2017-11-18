@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num412.py
 # Author: lxw
-# Date: 12/1/17 9:15 PM
+# Date: 20171110 9:15 PM
 
 """
 Num 412: Fizz Buzz

@@ -2,7 +2,7 @@
 # coding: utf-8
 # FileName: num461.py
 # Author: lxw
-# Date: 11/1/17 7:55 PM
+# Date: 20171101 7:55 PM
 
 """
 Num 461: Hamming Distance
