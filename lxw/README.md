@@ -15,6 +15,7 @@ Submitted by [lxw](http://xiaoweiliu.cn).</br>
 | 046 | [Permutations](https://leetcode.com/problems/permutations/) | [num046.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num046/num046.py) | Backtracking | Medium |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [num094.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num094/num094.py) | Stack | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [num144.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num144/num144.py) | Stack | Medium |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [num145.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num145/num145.py) | Stack | Medium |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [num171.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num171/num171.py) | String | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [num189.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num189/num189.py) | Array | Easy |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [num204.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num204/num204.py) | Math | Medium |
