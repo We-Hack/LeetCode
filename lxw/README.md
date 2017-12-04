@@ -22,6 +22,7 @@ Submitted by [lxw](http://xiaoweiliu.cn).</br>
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [num287.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num287/num287.py) | Array/Binary Search | Easy/Medium |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [num328.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num328/num328.py) | Linked List | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [num347.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num347/num347.py) | Hash Table | Medium |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [num350.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num350/num350.py) | Hash Table | Easy |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [num378.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num378/num378.py) | Binary Search | Medium |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [num384.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num384/num384.py) | Math | Medium |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [num412.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num412/num412.py) | Math | Easy |
