@@ -28,3 +28,4 @@ Submitted by [lxw](http://xiaoweiliu.cn).</br>
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [num412.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num412/num412.py) | Math | Easy |
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [num454.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num454/num454.py) | Hash Table | Medium |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [num461.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num461/num461.py) | BitManipulation | Easy |
+| 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [num740.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num740/num740.py) | DP | Medium |
