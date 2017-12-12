@@ -14,6 +14,7 @@ Submitted by [lxw](http://xiaoweiliu.cn).</br>
 | 030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [num030.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num030/num030.py) | Hash Table | Hard |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/) | [num046.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num046/num046.py) | Backtracking | Medium |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [num094.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num094/num094.py) | Stack | Medium |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [num121.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num121/num121.py) | DP | Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [num144.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num144/num144.py) | Stack | Medium |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [num145.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num145/num145.py) | Stack | Medium |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [num171.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num171/num171.py) | String | Easy |
