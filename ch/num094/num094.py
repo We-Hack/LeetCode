@@ -59,7 +59,6 @@ class Solution2:
                 stack.append(p)
                 p = p.left
             if stack:
-
                 p = stack.pop()
                 res.append(p.val)
                 p = p.right
