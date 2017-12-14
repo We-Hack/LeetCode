@@ -30,3 +30,4 @@ Submitted by [lxw](http://xiaoweiliu.cn).</br>
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [num454.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num454/num454.py) | Hash Table | Medium |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [num461.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num461/num461.py) | BitManipulation | Easy |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [num740.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num740/num740.py) | DP | Medium |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [num744.py](https://github.com/We-Hack/LeetCode/blob/master/lxw/num744/num744.py) | Binary Search| Easy |
